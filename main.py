@@ -1,4 +1,4 @@
-# This is a roman numeral program
+# This is a romanNumeral program
 from romanNumeral import romanNumeral
 
 x = int(input())
